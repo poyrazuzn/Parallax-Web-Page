@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-align: center;
+
+}
+
+.menu1{
+    background-size: 100%;
+    padding: 0%;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1100px;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image1.jpg);
+    background-attachment: fixed;
+}
+.menu1 h1{ 
+    font-size: 50px;  
+    padding-top: 430px;
+    border: 5px;
+}
+.menu2{
+    padding: 0%;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image2.jpg);
+    background-attachment: fixed;
+}
+.menu2 h5{
+    background-color: bisque;
+    color: black;
+    font-size: 30px;
+    padding: 1%;
+}
+.menu2 h2{
+    padding-top: 130px;
+    font-size: 50px;
+    color: #ffffff;
+}
+.content1{
+    padding: 20px 20px;
+    background-color: bisque;
+    color: black;
+    font-size: 20px;
+    height: 220px;
+}
+.menu3{
+    padding: 0%;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 600px;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image3.jpg);
+    background-attachment: fixed;
+}
+.content2{
+    padding: 20px 20px;
+    background-color: rgb(53, 54, 58);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    height: 220px;
+}
+.menu3 h5{
+    background-color: rgb(53, 54, 58);
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding: 1%;
+}
+.menu3 h2{
+    padding-top: 130px;
+    font-size: 50px;
+    color: #ffffff;
+}
+.menu4{
+    
+    padding: 0%;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 1300px;
+    background-image: url(https://jolly-kalam-23776e.netlify.app/parallaxsite/img/image1.jpg);
+    background-attachment: fixed;
+}
+.content3{
+    padding: 20px 20px;
+    background-color: rgb(53, 54, 58);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    height: 220px;
+}
+.menu4 h4{
+    background-color: rgb(53, 54, 58);
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    padding: 1%;
+}
+.menu4 h1{ 
+    font-size: 50px;  
+    padding-top: 430px;
+    border: 5px;
+}
